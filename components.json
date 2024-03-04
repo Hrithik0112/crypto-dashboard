@@ -8,7 +8,8 @@
     "css": "\u0017src/index.css",
     "baseColor": "zinc",
     "cssVariables": true,
-    "prefix": ""
+    "prefix": "",
+    "tsx": false
   },
   "aliases": {
     "components": "@/components",
